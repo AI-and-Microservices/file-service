@@ -1,12 +1,11 @@
-# Application service
+# File service
 
-CRUD for application
+CRUD for File management
 
 ## Features
 
-- Application management
-- Application type management
-- Application's Virtual roles flow
+- Upload file
+- Store file in Minio and use mongo to store metadata
 
 ## Installation
 
